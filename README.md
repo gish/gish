@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Erik
+
+🛠️ I like solving product challenges with technology.
+
+👷 Let me know if you need to contract a structured swiss army knife that can solve your challenges.
+
+### Contact
+
+- LinkedIn [Erik Hedberg](https://www.linkedin.com/in/erikhedberg)
+- E-mail [erik@hedberg.at](mailto:erik@hedberg.at)
 
 <!--
 **gish/gish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
